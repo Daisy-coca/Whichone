@@ -1,0 +1,4 @@
+{
+    "active_backend": "pocketbase",
+    "failover_url": "https://youraccount.alwaysdata.net"
+}
