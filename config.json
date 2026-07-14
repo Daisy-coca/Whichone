@@ -1,3 +1,4 @@
 {
-       "active_backend": "supabase"
+       "active_backend": "pocketbase",
+       "failover_url": "https://thegeek.alwaysdata.net"
    }
